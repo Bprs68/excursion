@@ -27,8 +27,10 @@ p {
 }
 
 video {
-    max-width: 100%;
+    width: 100%;
     height: auto;
+    max-width: 400px; /* Adjust based on your needs */
+    margin: 0 auto;
 }
 
 .features img {
